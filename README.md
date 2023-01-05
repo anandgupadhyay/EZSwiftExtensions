@@ -5,8 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/EZSwiftExtensions.svg?style=flat)](https://cocoapods.org/pods/EZSwiftExtensions)
 [![Platform](https://img.shields.io/cocoapods/p/EZSwiftExtensions.svg?style=flat)](http://cocoapods.org/pods/EZSwiftExtensions)
 [![Language](https://img.shields.io/badge/swift-4.0-orange.svg)](http://swift.org)
-[![Language](https://img.shields.io/badge/swift-3.0-orange.svg)](http://swift.org)
-[![Language](https://img.shields.io/badge/swift-2.3-orange.svg)](http://swift.org)
+
 
 <p>
 <a href="http://cocoapods.org/pods/EZSwiftExtensions"><img src="https://img.shields.io/cocoapods/at/EZSwiftExtensions.svg?label=Apps%20Using%20EZSwiftExtensions&colorB=28B9FE"></a>
