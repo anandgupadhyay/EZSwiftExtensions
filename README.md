@@ -160,7 +160,7 @@ github "goktugyil/EZSwiftExtensions"
 
 ## Requirements
 
-- Swift 2 or later
+- Swift 4 or later
 
 ## Possible features
 
